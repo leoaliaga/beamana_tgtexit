@@ -1,0 +1,3 @@
+/pnfs/nova/persistent/stash/flux/g4numi/v6r1/me000z200i/g4numiv6_minervame_me000z200i_120_0006.root
+/pnfs/nova/persistent/stash/flux/g4numi/v6r1/me000z200i/g4numiv6_minervame_me000z200i_121_0006.root
+/pnfs/nova/persistent/stash/flux/g4numi/v6r1/me000z200i/g4numiv6_minervame_me000z200i_122_0006.root
